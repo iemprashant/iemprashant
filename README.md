@@ -1,14 +1,52 @@
 
 <h1 align="center">Hi 👋,I'm Prashant - aka iemprashant</h1>
 
-- 🌱 I’m currently learning React.js
+-   I'm an Aspiring Software developer looking out for new opportunities 🗻.
+
+-   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
+
+-   Practicing clean code ✨.
+
+-   Currently learning MERN stack.
+
+-   JS is love ❤️.
+
+-  Code till I die
+
+
+ ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
+
+### Languages & Frameworks:
+<p>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="26px"/>
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+</p>
+
 <br/>
 
-### Languages and Tools:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p>
+### Tools :
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/npm.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mongodb.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/heroku.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/netlify.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iemprashant&layout=compact)
-
 
 
 <p align="center"> 
