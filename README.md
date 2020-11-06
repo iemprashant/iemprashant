@@ -1,24 +1,21 @@
-
 <h1 align="center">Hi 👋,I'm Prashant - aka iemprashant</h1>
 
--   I'm an Aspiring Software developer looking out for new opportunities 🗻.
+- I'm an Aspiring Software developer looking out for new opportunities 🗻.
 
--   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
+- I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
--   Practicing clean code ✨.
+- Practicing clean code ✨.
 
--   Currently learning MERN stack.
+- Currently learning MERN stack.
 
--   JS is love ❤️.
+- JS is love ❤️.
 
--  Code till I die
+- Code till I die
 
-
- ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ### Languages & Frameworks:
+
 <p>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -48,16 +45,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iemprashant&layout=compact)
 
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/iemprashant/count.svg" />
  </p>
- 
 
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
-
-
-
-
+ <h4 align="center">Show some ❤️ by starring some of the my repositories!</h4>
