@@ -8,11 +8,6 @@
 
 - Practicing clean code ✨.
 
-- Currently learning MERN stack.
-
-- JS is love ❤️.
-
-- Code till I die
 ### Languages & Frameworks:
 
 <p>
